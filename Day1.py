@@ -10,3 +10,5 @@ print("Bake at 200 degrees C for 30 minutes.")
 ############################################## New Line #########################
 
 print("Hello\nHello New Line")
+print("Hello" + "World")
+print("Hello" + " " + "World")
