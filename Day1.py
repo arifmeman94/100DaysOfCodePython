@@ -19,7 +19,7 @@ print("Hello" + " " + "World")
 #input("What's your name?")
 print("Hello" + " " + input("What's your name?")+"!")
 """
-
+#
 name = input("What's your name?")
 length = str(len(name))
 print("length of the name is :"+ length)
