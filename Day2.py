@@ -12,4 +12,8 @@ str(123)
 
 #####################
 
-print("Number of letters in your name: "+str(len(input("Enter your name"))))
+#print("Number of letters in your name: "+str(len(input("Enter your name"))))
+
+## PEMDAS rule
+## Parantheses , Exponents, Multiplication/Division, Addision/Subtraction
+print(3 * (3 + (3 / 3) - 3))
