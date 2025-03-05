@@ -1,11 +1,13 @@
 **Day1 Project**
 
+![Band Name Generator drawio (2)](https://github.com/user-attachments/assets/5e6101ba-35a7-430f-9cf1-7eb5ec6b2e9a)
 
-![Band Name Generator drawio (1)](https://github.com/user-attachments/assets/067fa537-51f6-48a5-83d1-249513916513)
+
 
 
 
 **Day2 Project**
 
-![Tip Calculator drawio](https://github.com/user-attachments/assets/87092183-27ea-4d09-9379-5ede4c94605e)
+
+![Tip Calculator drawio (1)](https://github.com/user-attachments/assets/a3f204c6-319c-43c5-ba30-f1dd71439f69)
 
