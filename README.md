@@ -1,5 +1,5 @@
 **Day1 Project**
-<img src="![Band Name Generator drawio (2)](https://github.com/user-attachments/assets/5e6101ba-35a7-430f-9cf1-7eb5ec6b2e9a)" height="40" alt="azure logo"  />
+<img src="https://github.com/arifmeman94/100DaysOfCodePython/blob/master/Band%20Name%20Generator.drawio.svg" height="70" alt="Day1"  />
 
 
 
