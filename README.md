@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <table >
      <tr>
         <td><b>Day1 Project</b></td>
