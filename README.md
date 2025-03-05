@@ -1,6 +1,6 @@
 **Day1 Project**
+<img src="![Band Name Generator drawio (2)](https://github.com/user-attachments/assets/5e6101ba-35a7-430f-9cf1-7eb5ec6b2e9a)" height="40" alt="azure logo"  />
 
-![Band Name Generator drawio (2)](https://github.com/user-attachments/assets/5e6101ba-35a7-430f-9cf1-7eb5ec6b2e9a)
 
 
 
