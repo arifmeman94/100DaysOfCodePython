@@ -1,0 +1,44 @@
+# Python
+*.pyc
+__pycache__/
+.env
+venv/
+*.egg-info/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Build artifacts
+build/
+dist/
+target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+*.ipr
+*.iml
+*.iws
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*~
+# Swap files
+*.swp
+
+# Other common patterns
+tmp/
+temp/
+*.tmp
